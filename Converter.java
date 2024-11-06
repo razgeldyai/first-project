@@ -1,0 +1,1 @@
+string allah = "babah";
